@@ -22,26 +22,26 @@ Explicación: mantén el emoji correspondiente, de manera honesta, para cada ite
 - ✅ si completaste **correctamente** lo pedido
 - 🟠 si el item está **incompleto** o tiene algunos errores
 #### Menú de Inicio (14pts) (14%)
-##### ❌✅🟠 Requisitos
-##### ❌✅🟠 Iniciar sesión
-##### ❌✅🟠 Ingresar como usuario anónimo
-##### ❌✅🟠 Registrar usuario
-##### ❌✅🟠 Salir
+##### ✅� Requisitos
+##### ✅ Iniciar sesión
+##### ✅� Ingresar como usuario anónimo
+##### ✅�Registrar usuario
+##### ✅� Salir
 #### Flujo del programa (35pts) (35%) 
-##### ❌✅🟠 Menú Principal
-##### ❌✅🟠 Menú Publicaciones
-##### ❌✅🟠 Menú Publicaciones Realizadas
+##### ✅� Menú Principal
+##### ✅� Menú Publicaciones
+##### ✅�Menú Publicaciones Realizadas
 #### Entidades 15pts (15%)
-##### ❌✅🟠 Usuarios
-##### ❌✅🟠 Publicaciones
-##### ❌✅🟠 Comentarios
+##### ✅� Usuarios
+##### 🟠 Publicaciones
+##### 🟠 Comentarios
 #### Archivos: 15 pts (15%)
-##### ❌✅🟠 Manejo de Archivos
+##### ✅� Manejo de Archivos
 #### General: 21 pts (21%)
-##### ❌✅🟠 Menús
-##### ❌✅🟠 Parámetros
-##### ❌✅🟠 Módulos
-##### ❌✅🟠 PEP8
+##### ✅� Menús
+##### ✅� Parámetros
+##### ✅� Módulos
+##### ✅� PEP8
 ## Ejecución :computer:
 El módulo principal de la tarea a ejecutar es  ```archivo.py```. Además se debe crear los siguientes archivos y directorios adicionales:
 1. ```archivo.ext``` en ```ubicación```
